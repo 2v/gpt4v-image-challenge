@@ -2,6 +2,7 @@
 Thomas Buckley, James A. Diao, B.S., Adam Rodman, M.D., and Arjun K. Manrai, Ph.D.
 
 **Abstract** 
+
 Background: General-purpose large language models that utilize both text and images have not been evaluated on a diverse array of challenging medical cases.
  
 Methods: Using 934 cases from the NEJM Image Challenge published between 2005 and 2023, we evaluated the accuracy of the recently released Generative Pre-trained Transformer 4 model (GPT-4V) compared to human respondents overall and stratified by question difficulty, level of disagreement, image type, and skin tone. We further conducted a physician evaluation of GPT-4V on 70 NEJM Clinicopathological Conferences (CPCs). Analyses were conducted for models utilizing text alone, images alone, and both text and images.
