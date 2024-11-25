@@ -1,5 +1,6 @@
-# Accuracy of a Vision-Language Model on Challenging Medical Cases
+Multimodal Foundation Models Exploit Text to Make Medical Image Predictions
 Thomas Buckley, B.S.1, James A. Diao, M.D., M.Phil.1,2, Pranav Rajpurkar, Ph.D.1, Adam Rodman, M.D.3, and Arjun K. Manrai, Ph.D.1*
+
 1 Department of Biomedical Informatics, Harvard Medical School, Boston, MA
 2 Department of Medicine, Brigham and Women's Hospital, Boston, MA
 3 Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA
